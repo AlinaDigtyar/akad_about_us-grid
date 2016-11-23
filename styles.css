@@ -1,0 +1,5 @@
+[class*="ba-column"] div {
+	background-color: purple;
+	text-align: center;
+	color: #fff;
+}
